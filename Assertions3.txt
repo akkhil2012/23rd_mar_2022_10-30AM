@@ -4,7 +4,9 @@ Assertions:-->
 	=> Assertions are work like a checkpoints at webpage
 		
 <<<<<<<<<AKKHIL SAMPLE?>>>>>>>>>>>>
-	How to apply assertions in Selenium IDE:-->  l';l
+	How to apply assertions in Selenium IDE:-->  l';l '
+	
+	
 
 		=> Open Selenium IDE
 		=> Turn Recording Mode on
