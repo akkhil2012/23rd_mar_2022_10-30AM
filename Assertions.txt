@@ -1,4 +1,4 @@
-Assertions:-->
+Changed again Assertions:-->
 	=> Assertions are usefull to verify acutal behaviour at
 		web browser window.
 	=> Assertions are work like a checkpoints at webpage
