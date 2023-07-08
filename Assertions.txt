@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Changed again Assertions:-->
 =======
 Modified:Assertions:-->
+=======
+Assertions:-->
+>>>>>>> parent of 0b1af09 (Update Assertions.txt)
 	=> Assertions are usefull to verify acutal behaviour at
 		web browser window.
 	=> Assertions are work like a checkpoints at webpage
@@ -161,8 +165,12 @@ Creating test suite in Selenium IDE:-->
 
 
 
+<<<<<<< HEAD
 		
 <<<<<<< HEAD
 >>>>>>> parent of 517dde5 (Update Assertions.txt)
 =======
 >>>>>>> parent of 517dde5 (Update Assertions.txt)
+=======
+		
+>>>>>>> parent of 0b1af09 (Update Assertions.txt)
