@@ -2,10 +2,9 @@ Assertions:-->
 	=> Assertions are usefull to verify acutal behaviour at
 		web browser window.
 	=> Assertions are work like a checkpoints at webpage
-
+		
 <<<<<<<<<AKKHIL SAMPLE?>>>>>>>>>>>>
 	How to apply assertions in Selenium IDE:-->
-
 
 		=> Open Selenium IDE
 		=> Turn Recording Mode on
